@@ -31,7 +31,7 @@ My professional experience is summarized in this timeline:
 
 # Publications
 
-1. [To Mix or Specialise? A Coordination Productivity Indicator for English and Welsh farms](https://doi.org/10.1111/1477-9552.12177) (with Frederic Ang), Journal of Agricultural Economics 67 (3), 779–798
+1. [To Mix or Specialise? A Coordination Productivity Indicator for English and Welsh farms](https://doi.org/10.1111/1477-9552.12177), F Ang, PJ Kerstens, Journal of Agricultural Economics 67 (3), 779–798
 2. [Benefit of the Doubt Performance Measurement of Social Enterprises: Mission Lock-in or drift?](https://doi.org/10.5465/AMBPP.2017.13803abstract) , J Bruneel, M Staessens, L Cherchye, PJ Kerstens, Academy of Management Proceedings 2017 (1), 13803
 3. [Decomposing the Luenberger–Hicks–Moorsteen total factor productivity indicator: An application to US agriculture](https://doi.org/10.1016/j.ejor.2016.12.015), F Ang, PJ Kerstens, European Journal of Operational Research 260 (1), 359-375
 4. [Production with storable and durable inputs: Nonparametric analysis of intertemporal efficiency](https://doi.org/10.1016/j.ejor.2018.04.002), L Cherchye, B De Rock, PJ Kerstens, European Journal of Operational Research 270 (2), 498-513
