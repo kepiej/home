@@ -1,5 +1,6 @@
 ---
 share: "true"
+title: Home
 ---
 
 # Welcome
@@ -43,3 +44,8 @@ My professional experience is summarized in this timeline:
 10. [Distinguishing useful and wasteful slack](https://doi.org/10.1287/opre.2022.2415), P Bogetoft, PJ Kerstens, Operations Research
 11. [Robust nonparametric analysis of dynamic profits, prices and productivity: An application to French meat-processing firms](https://doi.org/10.1093/erae/jbac029), F Ang, PJ Kerstens, European Review of Agricultural Economics 50 (2), 771-809
 12. [A DEA-based approach to customer value analysis](https://doi.org/10.1016/j.ejor.2023.01.005), L Cherchye, B De Rock, B Dierynck, PJ Kerstens, F Roodhooft, European Journal of Operational Research 308 (3), 1319-1331
+
+
+```html
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FfuRRshAbaMikh3gDh&noBootstrap=1"></iframe>
+```
